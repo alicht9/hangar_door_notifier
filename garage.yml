@@ -1,0 +1,6 @@
+---
+USER: GMAIL_USERNAME
+
+PASSWORD: GMAIL_PASSWORD
+
+TO: TO_EMAILS # this is an array.... [blah@blah, foo@bar]
